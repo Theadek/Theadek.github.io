@@ -169,7 +169,7 @@
               <div class="subheading mb-3">Engineer's degree in Computer Science</div>
               <div>Thesis: 2.5D game written in OpenGL</div>
 			  <img class="logo" src="img/pg.jpg" alt="" width=50%>
-			  <img class="logo" src="img/ETI.png" alt="" width=20%>
+			  <img class="logo" src="img/ETI.png" alt="" width=50%>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">October 2017 - February 2021</span>
