@@ -99,6 +99,8 @@
             </li>
           </ul>
 		  
+		  
+		  <h2 class="mb-5">Links</h2>
 		  <ul class="list-inline list-icons">
             <li class="list-inline-item">
               <a href="https://github.com/Theadek" target="_blank">
@@ -206,11 +208,11 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Overcooked Clone (Unity)</h3>
-              <div class="subheading mb-3">Following tutorial to create clone of OverCooked game. Learned a lot about code architecture and using Events.
+              <h3 class="mb-0">Overcooked Clone (Unity)
 			  <a class="list-inline list-icons" href="https://github.com/Theadek/PimpMyKitchen" target="_blank">
 				<i class="devicon-github-original colored"></i>
-			  </a></div>
+			  </a></h3>
+              <div class="subheading mb-3">Following tutorial to create clone of OverCooked game. Learned a lot about code architecture and using Events.</div>
               
 			  <img class="logo" src="img/overcooked0.png" alt="" width=20%>
               <img class="logo" src="img/overcooked1.png" alt="" width=20%>
